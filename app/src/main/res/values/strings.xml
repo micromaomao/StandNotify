@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StandNotify</string>
+    <string name="togNotify">Notify me</string>
+    <string name="togNotifyOn">Notifying</string>
+    <string name="nostopwhennotify">Keep notifying me after I close the notification</string>
+    <string name="nottext">Notification content to show</string>
+    <string name="serviceStart">Started StandNotify.</string>
+    <string name="lowAccuracy">Accelerator suffering from low accuracy.</string>
+    <string name="running">Please don\'t forget your stuff when leaving!</string>
+    <string name="currentAcceleration">Current acceleration:</string>
+    <string name="x" translatable="false">x</string>
+    <string name="y" translatable="false">y</string>
+    <string name="z" translatable="false">z</string>
+    <string name="magnitude">magnitude</string>
+    <string name="willnotify">StandNotify will remind you when you move.</string>
+</resources>
